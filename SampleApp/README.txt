@@ -1,0 +1,1 @@
+SampleApp和qnn-net-run，区别是SampleApp识别input_list.txt，SampleApp必须有且仅仅有一条输入，且不能有空行
