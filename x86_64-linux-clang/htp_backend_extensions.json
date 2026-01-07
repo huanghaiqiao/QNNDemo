@@ -1,0 +1,6 @@
+{
+    "backend_extensions": {
+        "shared_library_path": "libQnnHtpNetRunExtensions.so",
+        "config_file_path": "/home/hq/hq/qnndemo/x86_64-linux-clang/htp_config.json"
+    }
+}
